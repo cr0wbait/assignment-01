@@ -1,0 +1,66 @@
+body {
+font-family: "Helvetica Neue";
+
+}
+
+.Crown {
+  display: block;
+  width: 100%;
+}
+
+h1 {
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+h2 {
+color: #c26866;
+font-weight: 200;
+margin-top: 0px;
+}
+
+#FullMonty {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px black solid;
+  padding-left: 35px;
+  padding-top: 10px;
+  padding-right: 35px;
+  padding-bottom: 10px;
+}
+
+.Blurb{
+font-size: 24px;
+width: 100%;
+}
+
+.Crown img {
+  display: block;
+  width: 100%;
+}
+
+.OrganizeSupport{
+  font-size: 14px;
+  text-align: center;
+}
+
+.OrganizeSupport img{
+width: 140px;
+}
+
+.Partner img{
+  width: 140px;
+}
+
+.Sponsor img{
+  width: 140px;
+}
+
+.Copyrights p{
+  font-size: 8px;
+}
+
+.Footer img{
+  width: 500px;
+}
